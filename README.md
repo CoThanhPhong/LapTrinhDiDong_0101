@@ -6,3 +6,4 @@ Members:
 - Cổ Thanh Phong - 197CT31643 (leader)
 - Phạm Hoàng An - 2174802010168
 - Nguyễn Trương Xuân Phước - 2474802010322
+- Lê Võ Hải Khánh - 197ct09781
