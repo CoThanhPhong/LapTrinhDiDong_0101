@@ -1,9 +1,11 @@
 # LapTrinhDiDong_0101
 Đồ án nhóm lớp 0101
 
-# Rules
--"Không maerge nhánh main khi chưa test kỹ"
-- Hãy pull nhánh Test về rồi push lên nhánh Test
+[!CAUTION]
+**RULES**
+- Không commit trực tiếp vào branch `main`.
+- Không merge branch main khi chưa test kỹ
+- Hãy làm việc ở branch Test về rồi push lên nhánh Test
 - Cùng review file để xem còn lỗi hay không mới nhờ leader merge vào nhánh main
 
 Members:
