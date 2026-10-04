@@ -1,6 +1,10 @@
 # LapTrinhDiDong_0101
 Đồ án nhóm lớp 0101
 
+# Rules
+-"Không maerge nhánh main khi chưa test kỹ"
+- Hãy pull nhánh Test về rồi push lên nhánh Test
+- Cùng review file để xem còn lỗi hay không mới nhờ leader merge vào nhánh main
 
 Members:
 - Cổ Thanh Phong - 197CT31643 (leader)
